@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "59799401559",
+    "project_id": "walklock",
+    "storage_bucket": "walklock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59799401559:android:d6961b88701304d97e5f12",
+        "android_client_info": {
+          "package_name": "com.example.healthconnect.codelab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59799401559-45fffffg3chmfkuoksm556rl4rr5hqhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5RHq4UqW9BGq1vf52vPCdWL6-8PR59oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59799401559-45fffffg3chmfkuoksm556rl4rr5hqhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
